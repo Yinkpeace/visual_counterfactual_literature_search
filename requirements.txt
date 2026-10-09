@@ -1,0 +1,2 @@
+# Optional: only needed for PDF-assisted screening.
+pypdf>=4,<7
