@@ -1,10 +1,7 @@
 # Visual Counterfactual Review — Screening Matrix
 
-Source: [final ACM paper](../ACM_Visual_Counterfactual_Review.pdf), Sections 2–9 and Figures 1–3.
-
-Status: updated to the final ACM paper
-Review type: systematic scoping review with critical technical synthesis
-Manuscript format: ACM article, *Visual Counterfactual Explanations and Beyond: A Systematic Review*
+Status: full-corpus screening complete  
+Review type: systematic scoping review with critical technical synthesis  
 Search period: 1 June–31 August 2026; publication window: 2017–2026
 
 ## Operational scope

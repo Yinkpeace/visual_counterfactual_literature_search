@@ -1,9 +1,7 @@
 # Visual Counterfactual Review — Evidence Extraction Matrix
 
-Source: [final ACM paper](../ACM_Visual_Counterfactual_Review.pdf), Sections 2–9 and Figures 1–3.
-
-Status: qualitative synthesis updated to the final 95-study ACM review; numerical verification remains claim-specific
-Rule: align every claim with the declared intervention, preserved properties, intended role, and corresponding evidence. Primary-study grades remain distinct from review-level synthesis.
+Status: corpus-level qualitative extraction complete; exact numerical verification remains claim-specific  
+Rule: every substantive manuscript claim must be traceable to a primary-study Markdown record with an evidence grade.
 
 ## Extraction schema
 

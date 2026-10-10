@@ -1,10 +1,8 @@
 # Visual Counterfactual Review — Supplementary Taxonomy Crosswalk
 
-Source: [final ACM paper](../ACM_Visual_Counterfactual_Review.pdf), Sections 2–9 and Figures 1–3.
-
-Status: updated to the final ACM paper’s six-axis taxonomy
-Unit: included publication family
-Rule: coding is multi-label; the primary role follows the central thesis and primary claimed endpoint. The six axes are analytically distinct but interconnected. Artifact and evaluation are supplementary descriptors, rather than additional taxonomy axes.
+Status: working supplementary table  
+Unit: included publication family  
+Rule: columns contain the primary category used for descriptive counts. Hybrid and secondary characteristics remain in the evidence matrix and manuscript discussion.
 
 ## Codes
 
